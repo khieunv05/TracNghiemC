@@ -1,0 +1,84 @@
+1.1+1=?
+1
+2
+3
+4
+3
+2.3+4=?
+2
+42
+5
+6
+3
+3.5+7=?
+4
+4
+w
+5
+3
+4.5+7=?
+4
+4
+w
+5
+3
+5.5+7+5+20=?
+4
+4
+w
+5
+3
+6.1+1=?
+1
+2
+3
+4
+3
+7.Tong c++, tu khoa nao
+function
+method
+def
+void
+void
+8.Trong C++, kieu du lieu nao dung de luu tru so thuc?
+int
+char
+float
+double
+float
+9.Ham nao trong C++ dung de in du lieu ra man hinh?
+cin()
+printf()
+scanf()
+cout()
+cout()
+10.Trong C++, dieu gi xay ra khi ban co gang chia mot so nguyen cho 0?
+Chuong trinh se in ra "infinity"
+Chuong trinh se dung ngay lap tuc
+Chuong trinh se gay ra loi bien dich
+Chuong trinh se gay ra loi chay
+Chuong trinh se gay ra loi chay
+11.Cau hoi: De khai bao mot mang trong C++, cu phap dung la gi?
+int arr[5];
+int[] arr;
+arr = new int[5];
+array arr;
+int arr[5];
+12.Trong C++, de su dung thu vien do hoa graphics.h, ban can thu vien nao de lien ket?
+-lgdi32
+-graphics
+-lcomdlg32
+-libido
+-lgdi32
+13.Trong C++, cu phap nao la dung de khai bao mot ham tra ve gia tri kieu int?
+A) int function();
+B) function int();
+C) void int function();
+D) int function:
+Dap an: A) int function();
+14.Cau hoi: Trong C++, khi nao ban se su dung tu khoa new?
+A) Khi ban muon khoi tao mot bien toan cuc
+B) Khi ban muon khai bao mot hang so
+C) Khi ban muon cap phat bo nho dong
+D) Khi ban muon khai bao mot ham trong lop
+Dap an: C) Khi ban muon cap phat bo nho dong
